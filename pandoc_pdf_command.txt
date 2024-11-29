@@ -1,0 +1,1 @@
+pandoc md_test.md -o md_test.pdf --pdf-engine=xelatex --variable mainfont="Times New Roman"
